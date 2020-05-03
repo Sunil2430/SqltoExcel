@@ -1,0 +1,7 @@
+E:\dotnetSample\Others\ExportFromSqltoExcel\SqlToExcel\SqlToExcel\bin\Release\SqlToExcel.exe.config
+E:\dotnetSample\Others\ExportFromSqltoExcel\SqlToExcel\SqlToExcel\bin\Release\SqlToExcel.exe
+E:\dotnetSample\Others\ExportFromSqltoExcel\SqlToExcel\SqlToExcel\bin\Release\SqlToExcel.pdb
+E:\dotnetSample\Others\ExportFromSqltoExcel\SqlToExcel\SqlToExcel\obj\Release\SqlToExcel.csproj.CoreCompileInputs.cache
+E:\dotnetSample\Others\ExportFromSqltoExcel\SqlToExcel\SqlToExcel\obj\Release\SqlToExcel.exe
+E:\dotnetSample\Others\ExportFromSqltoExcel\SqlToExcel\SqlToExcel\obj\Release\SqlToExcel.pdb
+E:\dotnetSample\Others\ExportFromSqltoExcel\SqlToExcel\SqlToExcel\obj\Release\SqlToExcel.csprojAssemblyReference.cache
